@@ -1,0 +1,12 @@
+function ResetWallpapers()
+	SKIN:Bang('!WriteKeyValue Variables Morning "Good Morning" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables Noon "Good Noon" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables Afternoon "Good Afternoon" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables Evening "Good Evening" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables Night "Good Night" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables MorningHour "05" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables NoonHour "12" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables AfternoonHour "16" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables EveningHour "19" "#@#variables.inc"')
+	SKIN:Bang('!WriteKeyValue Variables NightHour "23" "#@#variables.inc"')
+end
