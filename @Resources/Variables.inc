@@ -1,34 +1,25 @@
 [Variables]
-Author=Evans Stenakis
-Name=Variables
-Version=Launch
-License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
-
-;;----------Others----------
-
 Language=en-US
 ClipString=460.8
 CMode=36,36,36
 OMode=255,255,255 
-Username=%username%
 Plugin=ActionTimer                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 Mode=1
-Link=https://www.yahoo.com/news/weather/greece/aiyina/aiyina-12839110
 Accent=51,142,133
-
-;;----------Fonts Used (*)----------
-
-LightFont=Google sans
+version=22.01.06
+MainFont=Google Sans
 Font=Gilroy-SemiBold
 BoldFont=Gilroy-Bold
-
-;;----------Music Player Data (*)----------
-
 AudioPlayerName=Spotify
-MusicPlugin=NowPlaying
-
-;;----------Clock Format----------
-
+MusicPlugin=NowPlaying.dll
 DayF=%A
 HF=%H
 Music=NowPlaying.dll
+Mult=1.3
+Latitude=37.9431594
+Longitude=23.6470593
+Location=Piraeus
+ALocation=Piraeus
+Divider=300
+AlarmHour=22
+AlarmMinutes=33

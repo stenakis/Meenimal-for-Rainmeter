@@ -1,0 +1,1 @@
+powershell.exe -noexit "& '%cd%\safe_updater.ps1'
