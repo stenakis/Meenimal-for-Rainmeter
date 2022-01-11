@@ -27,6 +27,7 @@ InlineSetting2=GradientColor | -90 | #Accent#,255 ; 0.0 | #Accent#,200 ; 0.8 | #
 [IconsStyle]
 W=20
 X=35
+ImageTint=#OMode#
 
 [OptionsStyle]
 FontFace=#MainFont#
@@ -48,10 +49,10 @@ X=280
 StringAlign=Left
 
 [DescriptionStyle]
-FontColor=#OMode#
 FontSize=13
 FontFace=#Font#
 AntiAlias=1
 StringAlign=Center
 StringCase=Upper
 InlineSetting=CharacterSpacing | 0.2 | 0.2
+FontColor=#OMode#
