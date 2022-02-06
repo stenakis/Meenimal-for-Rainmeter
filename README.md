@@ -18,3 +18,14 @@ The brand new Settings menu is here with even more options!
 ![Screenshot 2021-12-06 140817](https://user-images.githubusercontent.com/73079704/144843565-0962ffb8-0ec4-44bd-9fe0-f3a00e19c388.png)
 
 Meenimal is tranfering Rainmeter to a new era. NO MORE .RMSKIN files. Instead, the user will be prompted to download an installer .rmskin skin which will install the actual skin on the user's machine and self-destruct when done!
+
+# Q & A
+
+<b>Q:</b> Where can I find the Settings menu?<br>
+<b>A:</b> The Settings icon is placed below the date on the left side of the skin.
+
+<b>Q:</b> What about animations? (Birds flying, trees moving etc.)<br>
+<b>A:</b> Rendering animations requires extra material working in the background every second. It is normal that this, would consume an enormous amount of computer resources only by playing the animation. We will try to make it work in the future.
+
+<b>Q:</b> How can I change the default music player?<br>
+<b>A:</b> Go to Settings (see above how) and navigate to the Player. From there, select the desired music player. The skin will be refreshed immediately.
